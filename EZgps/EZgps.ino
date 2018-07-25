@@ -1,7 +1,7 @@
 //EZgps program -Jonathan
 //Basically a frame for use in creating code with ublox GPS stuff
 //Not really optimized for anything except usability at the moment
-
+//ping
 #include <TinyGPS.h>
 #include <SoftwareSerial.h>
 
